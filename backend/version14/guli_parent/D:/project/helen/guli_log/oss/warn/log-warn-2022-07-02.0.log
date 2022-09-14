@@ -1,0 +1,24 @@
+2022-07-02 10:39:22 |WARN  |main |Logger.java:44 |org.mybatis.spring.mapper.ClassPathMapperScanner |No MyBatis mapper was found in '[com.atguigu.guli.service.*.mapper]' package. Please check your configuration.
+2022-07-02 10:39:23 |WARN  |main |URLConfigurationSource.java:121 |com.netflix.config.sources.URLConfigurationSource |No URLs will be polled as dynamic configuration sources.
+2022-07-02 10:39:23 |WARN  |main |URLConfigurationSource.java:121 |com.netflix.config.sources.URLConfigurationSource |No URLs will be polled as dynamic configuration sources.
+2022-07-02 10:39:24 |WARN  |main |Logger.java:44 |org.mybatis.spring.mapper.ClassPathMapperScanner |No MyBatis mapper was found in '[com.atguigu.guli.service.*.mapper]' package. Please check your configuration.
+2022-07-02 10:39:24 |WARN  |main |URLConfigurationSource.java:121 |com.netflix.config.sources.URLConfigurationSource |No URLs will be polled as dynamic configuration sources.
+2022-07-02 10:39:24 |WARN  |main |URLConfigurationSource.java:121 |com.netflix.config.sources.URLConfigurationSource |No URLs will be polled as dynamic configuration sources.
+2022-07-02 10:41:23 |WARN  |main |Logger.java:44 |org.mybatis.spring.mapper.ClassPathMapperScanner |No MyBatis mapper was found in '[com.atguigu.guli.service.*.mapper]' package. Please check your configuration.
+2022-07-02 10:41:24 |WARN  |main |URLConfigurationSource.java:121 |com.netflix.config.sources.URLConfigurationSource |No URLs will be polled as dynamic configuration sources.
+2022-07-02 10:41:24 |WARN  |main |URLConfigurationSource.java:121 |com.netflix.config.sources.URLConfigurationSource |No URLs will be polled as dynamic configuration sources.
+2022-07-02 10:41:26 |WARN  |main |Logger.java:44 |org.mybatis.spring.mapper.ClassPathMapperScanner |No MyBatis mapper was found in '[com.atguigu.guli.service.*.mapper]' package. Please check your configuration.
+2022-07-02 10:41:27 |WARN  |main |URLConfigurationSource.java:121 |com.netflix.config.sources.URLConfigurationSource |No URLs will be polled as dynamic configuration sources.
+2022-07-02 10:41:27 |WARN  |main |URLConfigurationSource.java:121 |com.netflix.config.sources.URLConfigurationSource |No URLs will be polled as dynamic configuration sources.
+2022-07-02 10:45:15 |WARN  |main |Logger.java:44 |org.mybatis.spring.mapper.ClassPathMapperScanner |No MyBatis mapper was found in '[com.atguigu.guli.service.*.mapper]' package. Please check your configuration.
+2022-07-02 10:45:16 |WARN  |main |URLConfigurationSource.java:121 |com.netflix.config.sources.URLConfigurationSource |No URLs will be polled as dynamic configuration sources.
+2022-07-02 10:45:16 |WARN  |main |URLConfigurationSource.java:121 |com.netflix.config.sources.URLConfigurationSource |No URLs will be polled as dynamic configuration sources.
+2022-07-02 10:45:17 |WARN  |main |Logger.java:44 |org.mybatis.spring.mapper.ClassPathMapperScanner |No MyBatis mapper was found in '[com.atguigu.guli.service.*.mapper]' package. Please check your configuration.
+2022-07-02 10:45:18 |WARN  |main |URLConfigurationSource.java:121 |com.netflix.config.sources.URLConfigurationSource |No URLs will be polled as dynamic configuration sources.
+2022-07-02 10:45:18 |WARN  |main |URLConfigurationSource.java:121 |com.netflix.config.sources.URLConfigurationSource |No URLs will be polled as dynamic configuration sources.
+2022-07-02 22:44:56 |WARN  |main |Logger.java:44 |org.mybatis.spring.mapper.ClassPathMapperScanner |No MyBatis mapper was found in '[com.atguigu.guli.service.*.mapper]' package. Please check your configuration.
+2022-07-02 22:44:56 |WARN  |main |URLConfigurationSource.java:121 |com.netflix.config.sources.URLConfigurationSource |No URLs will be polled as dynamic configuration sources.
+2022-07-02 22:44:56 |WARN  |main |URLConfigurationSource.java:121 |com.netflix.config.sources.URLConfigurationSource |No URLs will be polled as dynamic configuration sources.
+2022-07-02 22:44:58 |WARN  |main |Logger.java:44 |org.mybatis.spring.mapper.ClassPathMapperScanner |No MyBatis mapper was found in '[com.atguigu.guli.service.*.mapper]' package. Please check your configuration.
+2022-07-02 22:44:59 |WARN  |main |URLConfigurationSource.java:121 |com.netflix.config.sources.URLConfigurationSource |No URLs will be polled as dynamic configuration sources.
+2022-07-02 22:44:59 |WARN  |main |URLConfigurationSource.java:121 |com.netflix.config.sources.URLConfigurationSource |No URLs will be polled as dynamic configuration sources.

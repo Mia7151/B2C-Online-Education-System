@@ -1,0 +1,218 @@
+2022-07-02 18:17:46 |INFO  |main |StartupInfoLogger.java:55 |com.atguigu.guli.service.cms.ServiceCmsApplication |Starting ServiceCmsApplication on Mias-MBP.lan with PID 62463 (/Users/mia/Desktop/project/java/guli_parent/service/service_cms/target/classes started by mia in /Users/mia/Desktop/project/java/guli_parent)
+2022-07-02 18:17:46 |INFO  |main |SpringApplication.java:655 |com.atguigu.guli.service.cms.ServiceCmsApplication |The following profiles are active: dev
+2022-07-02 18:24:44 |INFO  |main |StartupInfoLogger.java:55 |com.atguigu.guli.service.cms.ServiceCmsApplication |Starting ServiceCmsApplication on Mias-MBP.lan with PID 63201 (/Users/mia/Desktop/project/java/guli_parent/service/service_cms/target/classes started by mia in /Users/mia/Desktop/project/java/guli_parent)
+2022-07-02 18:24:44 |INFO  |main |SpringApplication.java:655 |com.atguigu.guli.service.cms.ServiceCmsApplication |The following profiles are active: dev
+2022-07-02 18:28:29 |INFO  |main |StartupInfoLogger.java:55 |com.atguigu.guli.service.cms.ServiceCmsApplication |Starting ServiceCmsApplication on Mias-MBP.lan with PID 63618 (/Users/mia/Desktop/project/java/guli_parent/service/service_cms/target/classes started by mia in /Users/mia/Desktop/project/java/guli_parent)
+2022-07-02 18:28:29 |INFO  |main |SpringApplication.java:655 |com.atguigu.guli.service.cms.ServiceCmsApplication |The following profiles are active: dev
+2022-07-02 18:28:44 |INFO  |main |StartupInfoLogger.java:55 |com.atguigu.guli.service.cms.ServiceCmsApplication |Starting ServiceCmsApplication on Mias-MBP.lan with PID 63651 (/Users/mia/Desktop/project/java/guli_parent/service/service_cms/target/classes started by mia in /Users/mia/Desktop/project/java/guli_parent)
+2022-07-02 18:28:44 |INFO  |main |SpringApplication.java:655 |com.atguigu.guli.service.cms.ServiceCmsApplication |The following profiles are active: dev
+2022-07-02 18:30:28 |INFO  |main |ConfigServicePropertySourceLocator.java:249 |org.springframework.cloud.config.client.ConfigServicePropertySourceLocator |Fetching config from server at : http://localhost:8888
+2022-07-02 18:30:28 |INFO  |main |ConfigServicePropertySourceLocator.java:273 |org.springframework.cloud.config.client.ConfigServicePropertySourceLocator |Connect Timeout Exception on Url - http://localhost:8888. Will be trying the next url if available
+2022-07-02 18:30:28 |INFO  |main |SpringApplication.java:655 |com.atguigu.guli.service.cms.ServiceCmsApplication |The following profiles are active: dev
+2022-07-02 18:30:28 |INFO  |main |GenericScope.java:295 |org.springframework.cloud.context.scope.GenericScope |BeanFactory id=f20e10c7-13f6-3ade-bc97-c4c327ba1cf6
+2022-07-02 18:30:28 |INFO  |main |StartupInfoLogger.java:61 |com.atguigu.guli.service.cms.ServiceCmsApplication |Started ServiceCmsApplication in 0.732 seconds (JVM running for 1.001)
+2022-07-02 20:04:02 |INFO  |main |ConfigServicePropertySourceLocator.java:249 |org.springframework.cloud.config.client.ConfigServicePropertySourceLocator |Fetching config from server at : http://localhost:8888
+2022-07-02 20:04:02 |INFO  |main |ConfigServicePropertySourceLocator.java:273 |org.springframework.cloud.config.client.ConfigServicePropertySourceLocator |Connect Timeout Exception on Url - http://localhost:8888. Will be trying the next url if available
+2022-07-02 20:04:02 |INFO  |main |SpringApplication.java:655 |com.atguigu.guli.service.cms.ServiceCmsApplication |The following profiles are active: dev
+2022-07-02 20:04:02 |INFO  |main |GenericScope.java:295 |org.springframework.cloud.context.scope.GenericScope |BeanFactory id=88430f17-e6be-39ee-a16e-cd617cd67310
+2022-07-02 20:04:02 |INFO  |main |PostProcessorRegistrationDelegate.java:330 |org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker |Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-07-02 20:04:02 |INFO  |main |TomcatWebServer.java:92 |org.springframework.boot.web.embedded.tomcat.TomcatWebServer |Tomcat initialized with port(s): 8140 (http)
+2022-07-02 20:04:02 |INFO  |main |DirectJDKLog.java:173 |org.apache.coyote.http11.Http11NioProtocol |Initializing ProtocolHandler ["http-nio-8140"]
+2022-07-02 20:04:02 |INFO  |main |DirectJDKLog.java:173 |org.apache.catalina.core.StandardService |Starting service [Tomcat]
+2022-07-02 20:04:02 |INFO  |main |DirectJDKLog.java:173 |org.apache.catalina.core.StandardEngine |Starting Servlet engine: [Apache Tomcat/9.0.29]
+2022-07-02 20:04:02 |INFO  |main |DirectJDKLog.java:173 |org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] |Initializing Spring embedded WebApplicationContext
+2022-07-02 20:04:02 |INFO  |main |ServletWebServerApplicationContext.java:284 |org.springframework.web.context.ContextLoader |Root WebApplicationContext: initialization completed in 499 ms
+2022-07-02 20:04:03 |INFO  |main |PropertySourcedRequestMappingHandlerMapping.java:69 |springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping |Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-07-02 20:04:03 |INFO  |main |ExecutorConfigurationSupport.java:171 |org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor |Initializing ExecutorService 'applicationTaskExecutor'
+2022-07-02 20:04:03 |INFO  |main |DocumentationPluginsBootstrapper.java:147 |springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper |Context refreshed
+2022-07-02 20:04:03 |INFO  |main |DocumentationPluginsBootstrapper.java:150 |springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper |Found 2 custom documentation plugin(s)
+2022-07-02 20:04:03 |INFO  |main |ApiListingReferenceScanner.java:41 |springfox.documentation.spring.web.scanners.ApiListingReferenceScanner |Scanning for api listing references
+2022-07-02 20:04:03 |INFO  |main |ApiListingReferenceScanner.java:41 |springfox.documentation.spring.web.scanners.ApiListingReferenceScanner |Scanning for api listing references
+2022-07-02 20:04:03 |INFO  |main |DirectJDKLog.java:173 |org.apache.coyote.http11.Http11NioProtocol |Starting ProtocolHandler ["http-nio-8140"]
+2022-07-02 20:04:03 |INFO  |main |TomcatWebServer.java:204 |org.springframework.boot.web.embedded.tomcat.TomcatWebServer |Tomcat started on port(s): 8140 (http) with context path ''
+2022-07-02 20:04:03 |INFO  |main |StartupInfoLogger.java:61 |com.atguigu.guli.service.cms.ServiceCmsApplication |Started ServiceCmsApplication in 1.625 seconds (JVM running for 1.865)
+2022-07-02 20:04:12 |INFO  |SpringContextShutdownHook |ExecutorConfigurationSupport.java:208 |org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor |Shutting down ExecutorService 'applicationTaskExecutor'
+2022-07-02 20:04:14 |INFO  |main |ConfigServicePropertySourceLocator.java:249 |org.springframework.cloud.config.client.ConfigServicePropertySourceLocator |Fetching config from server at : http://localhost:8888
+2022-07-02 20:04:14 |INFO  |main |ConfigServicePropertySourceLocator.java:273 |org.springframework.cloud.config.client.ConfigServicePropertySourceLocator |Connect Timeout Exception on Url - http://localhost:8888. Will be trying the next url if available
+2022-07-02 20:04:14 |INFO  |main |SpringApplication.java:655 |com.atguigu.guli.service.cms.ServiceCmsApplication |The following profiles are active: dev
+2022-07-02 20:04:14 |INFO  |main |GenericScope.java:295 |org.springframework.cloud.context.scope.GenericScope |BeanFactory id=88430f17-e6be-39ee-a16e-cd617cd67310
+2022-07-02 20:04:14 |INFO  |main |PostProcessorRegistrationDelegate.java:330 |org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker |Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-07-02 20:04:14 |INFO  |main |TomcatWebServer.java:92 |org.springframework.boot.web.embedded.tomcat.TomcatWebServer |Tomcat initialized with port(s): 8140 (http)
+2022-07-02 20:04:14 |INFO  |main |DirectJDKLog.java:173 |org.apache.coyote.http11.Http11NioProtocol |Initializing ProtocolHandler ["http-nio-8140"]
+2022-07-02 20:04:14 |INFO  |main |DirectJDKLog.java:173 |org.apache.catalina.core.StandardService |Starting service [Tomcat]
+2022-07-02 20:04:14 |INFO  |main |DirectJDKLog.java:173 |org.apache.catalina.core.StandardEngine |Starting Servlet engine: [Apache Tomcat/9.0.29]
+2022-07-02 20:04:14 |INFO  |main |DirectJDKLog.java:173 |org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] |Initializing Spring embedded WebApplicationContext
+2022-07-02 20:04:14 |INFO  |main |ServletWebServerApplicationContext.java:284 |org.springframework.web.context.ContextLoader |Root WebApplicationContext: initialization completed in 465 ms
+2022-07-02 20:04:15 |INFO  |main |PropertySourcedRequestMappingHandlerMapping.java:69 |springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping |Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-07-02 20:04:15 |INFO  |main |ExecutorConfigurationSupport.java:171 |org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor |Initializing ExecutorService 'applicationTaskExecutor'
+2022-07-02 20:04:15 |INFO  |main |DocumentationPluginsBootstrapper.java:147 |springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper |Context refreshed
+2022-07-02 20:04:15 |INFO  |main |DocumentationPluginsBootstrapper.java:150 |springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper |Found 2 custom documentation plugin(s)
+2022-07-02 20:04:15 |INFO  |main |ApiListingReferenceScanner.java:41 |springfox.documentation.spring.web.scanners.ApiListingReferenceScanner |Scanning for api listing references
+2022-07-02 20:04:15 |INFO  |main |ApiListingReferenceScanner.java:41 |springfox.documentation.spring.web.scanners.ApiListingReferenceScanner |Scanning for api listing references
+2022-07-02 20:04:15 |INFO  |main |DirectJDKLog.java:173 |org.apache.coyote.http11.Http11NioProtocol |Starting ProtocolHandler ["http-nio-8140"]
+2022-07-02 20:04:15 |INFO  |main |TomcatWebServer.java:204 |org.springframework.boot.web.embedded.tomcat.TomcatWebServer |Tomcat started on port(s): 8140 (http) with context path ''
+2022-07-02 20:04:15 |INFO  |main |StartupInfoLogger.java:61 |com.atguigu.guli.service.cms.ServiceCmsApplication |Started ServiceCmsApplication in 1.511 seconds (JVM running for 1.736)
+2022-07-02 20:04:37 |INFO  |http-nio-8140-exec-1 |DirectJDKLog.java:173 |org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] |Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-02 20:04:37 |INFO  |http-nio-8140-exec-1 |FrameworkServlet.java:525 |org.springframework.web.servlet.DispatcherServlet |Initializing Servlet 'dispatcherServlet'
+2022-07-02 20:04:37 |INFO  |http-nio-8140-exec-1 |FrameworkServlet.java:547 |org.springframework.web.servlet.DispatcherServlet |Completed initialization in 5 ms
+2022-07-02 20:05:05 |INFO  |http-nio-8140-exec-1 |HikariDataSource.java:110 |com.zaxxer.hikari.HikariDataSource |HikariPool-1 - Starting...
+2022-07-02 20:05:05 |INFO  |http-nio-8140-exec-1 |HikariDataSource.java:123 |com.zaxxer.hikari.HikariDataSource |HikariPool-1 - Start completed.
+2022-07-02 20:23:22 |INFO  |SpringContextShutdownHook |ExecutorConfigurationSupport.java:208 |org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor |Shutting down ExecutorService 'applicationTaskExecutor'
+2022-07-02 20:23:22 |INFO  |SpringContextShutdownHook |HikariDataSource.java:350 |com.zaxxer.hikari.HikariDataSource |HikariPool-1 - Shutdown initiated...
+2022-07-02 20:23:22 |INFO  |SpringContextShutdownHook |HikariDataSource.java:352 |com.zaxxer.hikari.HikariDataSource |HikariPool-1 - Shutdown completed.
+2022-07-02 20:23:26 |INFO  |main |ConfigServicePropertySourceLocator.java:249 |org.springframework.cloud.config.client.ConfigServicePropertySourceLocator |Fetching config from server at : http://localhost:8888
+2022-07-02 20:23:26 |INFO  |main |ConfigServicePropertySourceLocator.java:273 |org.springframework.cloud.config.client.ConfigServicePropertySourceLocator |Connect Timeout Exception on Url - http://localhost:8888. Will be trying the next url if available
+2022-07-02 20:23:26 |INFO  |main |SpringApplication.java:655 |com.atguigu.guli.service.cms.ServiceCmsApplication |The following profiles are active: dev
+2022-07-02 20:23:27 |INFO  |main |GenericScope.java:295 |org.springframework.cloud.context.scope.GenericScope |BeanFactory id=7010ae2e-4df8-3a7c-84a4-152a1e3e711e
+2022-07-02 20:23:27 |INFO  |main |PostProcessorRegistrationDelegate.java:330 |org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker |Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-07-02 20:23:27 |INFO  |main |PostProcessorRegistrationDelegate.java:330 |org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker |Bean 'spring.cloud.sentinel-com.alibaba.cloud.sentinel.SentinelProperties' of type [com.alibaba.cloud.sentinel.SentinelProperties] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-07-02 20:23:27 |INFO  |main |PostProcessorRegistrationDelegate.java:330 |org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker |Bean 'com.alibaba.cloud.sentinel.custom.SentinelAutoConfiguration' of type [com.alibaba.cloud.sentinel.custom.SentinelAutoConfiguration$$EnhancerBySpringCGLIB$$27b91d4f] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-07-02 20:23:27 |INFO  |main |TomcatWebServer.java:92 |org.springframework.boot.web.embedded.tomcat.TomcatWebServer |Tomcat initialized with port(s): 8140 (http)
+2022-07-02 20:23:27 |INFO  |main |DirectJDKLog.java:173 |org.apache.coyote.http11.Http11NioProtocol |Initializing ProtocolHandler ["http-nio-8140"]
+2022-07-02 20:23:27 |INFO  |main |DirectJDKLog.java:173 |org.apache.catalina.core.StandardService |Starting service [Tomcat]
+2022-07-02 20:23:27 |INFO  |main |DirectJDKLog.java:173 |org.apache.catalina.core.StandardEngine |Starting Servlet engine: [Apache Tomcat/9.0.29]
+2022-07-02 20:23:27 |INFO  |main |DirectJDKLog.java:173 |org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] |Initializing Spring embedded WebApplicationContext
+2022-07-02 20:23:27 |INFO  |main |ServletWebServerApplicationContext.java:284 |org.springframework.web.context.ContextLoader |Root WebApplicationContext: initialization completed in 734 ms
+2022-07-02 20:23:27 |INFO  |main |SentinelWebAutoConfiguration.java:96 |com.alibaba.cloud.sentinel.SentinelWebAutoConfiguration |[Sentinel Starter] register Sentinel CommonFilter with urlPatterns: [/*].
+2022-07-02 20:23:28 |INFO  |main |PropertySourcedRequestMappingHandlerMapping.java:69 |springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping |Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-07-02 20:23:28 |INFO  |main |URLConfigurationSource.java:122 |com.netflix.config.sources.URLConfigurationSource |To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2022-07-02 20:23:28 |INFO  |main |URLConfigurationSource.java:122 |com.netflix.config.sources.URLConfigurationSource |To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2022-07-02 20:23:28 |INFO  |main |ExecutorConfigurationSupport.java:171 |org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor |Initializing ExecutorService 'applicationTaskExecutor'
+2022-07-02 20:23:28 |INFO  |main |ExecutorConfigurationSupport.java:171 |org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler |Initializing ExecutorService
+2022-07-02 20:23:28 |INFO  |main |DocumentationPluginsBootstrapper.java:147 |springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper |Context refreshed
+2022-07-02 20:23:28 |INFO  |main |DocumentationPluginsBootstrapper.java:150 |springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper |Found 2 custom documentation plugin(s)
+2022-07-02 20:23:28 |INFO  |main |ApiListingReferenceScanner.java:41 |springfox.documentation.spring.web.scanners.ApiListingReferenceScanner |Scanning for api listing references
+2022-07-02 20:23:28 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: getByIdUsingGET_1
+2022-07-02 20:23:28 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: listPageUsingGET_1
+2022-07-02 20:23:28 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: saveUsingPOST_1
+2022-07-02 20:23:28 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: updateByIdUsingPUT_1
+2022-07-02 20:23:28 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: getByIdUsingGET_2
+2022-07-02 20:23:28 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: removeByIdUsingDELETE_1
+2022-07-02 20:23:28 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: saveUsingPOST_2
+2022-07-02 20:23:28 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: updateByIdUsingPUT_2
+2022-07-02 20:23:28 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: getByIdUsingGET_3
+2022-07-02 20:23:28 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: listPageUsingGET_2
+2022-07-02 20:23:28 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: removeByIdUsingDELETE_2
+2022-07-02 20:23:28 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: getByIdUsingGET_4
+2022-07-02 20:23:28 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: listAllUsingGET_1
+2022-07-02 20:23:28 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: listPageUsingGET_3
+2022-07-02 20:23:28 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: removeByIdUsingDELETE_3
+2022-07-02 20:23:28 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: saveUsingPOST_3
+2022-07-02 20:23:28 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: updateByIdUsingPUT_3
+2022-07-02 20:23:28 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: getByIdUsingGET_5
+2022-07-02 20:23:28 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: removeByIdUsingDELETE_4
+2022-07-02 20:23:28 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: saveUsingPOST_4
+2022-07-02 20:23:28 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: updateByIdUsingPUT_4
+2022-07-02 20:23:28 |INFO  |main |ApiListingReferenceScanner.java:41 |springfox.documentation.spring.web.scanners.ApiListingReferenceScanner |Scanning for api listing references
+2022-07-02 20:23:28 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: getByIdUsingGET_6
+2022-07-02 20:23:28 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: nestedListUsingGET_1
+2022-07-02 20:23:28 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: listAllUsingGET_2
+2022-07-02 20:23:28 |INFO  |main |DirectJDKLog.java:173 |org.apache.coyote.http11.Http11NioProtocol |Starting ProtocolHandler ["http-nio-8140"]
+2022-07-02 20:23:28 |INFO  |main |TomcatWebServer.java:204 |org.springframework.boot.web.embedded.tomcat.TomcatWebServer |Tomcat started on port(s): 8140 (http) with context path ''
+2022-07-02 20:23:28 |INFO  |main |NacosServiceRegistry.java:62 |com.alibaba.cloud.nacos.registry.NacosServiceRegistry |nacos registry, service-cms 192.168.1.128:8140 register finished
+2022-07-02 20:23:28 |INFO  |main |StartupInfoLogger.java:61 |com.atguigu.guli.service.cms.ServiceCmsApplication |Started ServiceCmsApplication in 2.342 seconds (JVM running for 2.594)
+2022-07-02 20:23:36 |INFO  |http-nio-8140-exec-1 |DirectJDKLog.java:173 |org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] |Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-02 20:23:36 |INFO  |http-nio-8140-exec-1 |FrameworkServlet.java:525 |org.springframework.web.servlet.DispatcherServlet |Initializing Servlet 'dispatcherServlet'
+2022-07-02 20:23:36 |INFO  |http-nio-8140-exec-1 |FrameworkServlet.java:547 |org.springframework.web.servlet.DispatcherServlet |Completed initialization in 7 ms
+2022-07-02 20:34:49 |INFO  |SpringContextShutdownHook |NacosServiceRegistry.java:74 |com.alibaba.cloud.nacos.registry.NacosServiceRegistry |De-registering from Nacos Server now...
+2022-07-02 20:34:49 |INFO  |SpringContextShutdownHook |NacosServiceRegistry.java:93 |com.alibaba.cloud.nacos.registry.NacosServiceRegistry |De-registration finished.
+2022-07-02 20:34:49 |INFO  |SpringContextShutdownHook |ExecutorConfigurationSupport.java:208 |org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor |Shutting down ExecutorService 'applicationTaskExecutor'
+2022-07-02 20:34:53 |INFO  |main |ConfigServicePropertySourceLocator.java:249 |org.springframework.cloud.config.client.ConfigServicePropertySourceLocator |Fetching config from server at : http://localhost:8888
+2022-07-02 20:34:53 |INFO  |main |ConfigServicePropertySourceLocator.java:273 |org.springframework.cloud.config.client.ConfigServicePropertySourceLocator |Connect Timeout Exception on Url - http://localhost:8888. Will be trying the next url if available
+2022-07-02 20:34:53 |INFO  |main |SpringApplication.java:655 |com.atguigu.guli.service.cms.ServiceCmsApplication |The following profiles are active: dev
+2022-07-02 20:44:07 |INFO  |main |ConfigServicePropertySourceLocator.java:249 |org.springframework.cloud.config.client.ConfigServicePropertySourceLocator |Fetching config from server at : http://localhost:8888
+2022-07-02 20:44:07 |INFO  |main |ConfigServicePropertySourceLocator.java:273 |org.springframework.cloud.config.client.ConfigServicePropertySourceLocator |Connect Timeout Exception on Url - http://localhost:8888. Will be trying the next url if available
+2022-07-02 20:44:07 |INFO  |main |SpringApplication.java:655 |com.atguigu.guli.service.cms.ServiceCmsApplication |The following profiles are active: dev
+2022-07-02 20:48:55 |INFO  |main |ConfigServicePropertySourceLocator.java:249 |org.springframework.cloud.config.client.ConfigServicePropertySourceLocator |Fetching config from server at : http://localhost:8888
+2022-07-02 20:48:55 |INFO  |main |ConfigServicePropertySourceLocator.java:273 |org.springframework.cloud.config.client.ConfigServicePropertySourceLocator |Connect Timeout Exception on Url - http://localhost:8888. Will be trying the next url if available
+2022-07-02 20:48:55 |INFO  |main |SpringApplication.java:655 |com.atguigu.guli.service.cms.ServiceCmsApplication |The following profiles are active: dev
+2022-07-02 20:49:51 |INFO  |main |ConfigServicePropertySourceLocator.java:249 |org.springframework.cloud.config.client.ConfigServicePropertySourceLocator |Fetching config from server at : http://localhost:8888
+2022-07-02 20:49:51 |INFO  |main |ConfigServicePropertySourceLocator.java:273 |org.springframework.cloud.config.client.ConfigServicePropertySourceLocator |Connect Timeout Exception on Url - http://localhost:8888. Will be trying the next url if available
+2022-07-02 20:49:51 |INFO  |main |SpringApplication.java:655 |com.atguigu.guli.service.cms.ServiceCmsApplication |The following profiles are active: dev
+2022-07-02 20:52:16 |INFO  |main |ConfigServicePropertySourceLocator.java:249 |org.springframework.cloud.config.client.ConfigServicePropertySourceLocator |Fetching config from server at : http://localhost:8888
+2022-07-02 20:52:16 |INFO  |main |ConfigServicePropertySourceLocator.java:273 |org.springframework.cloud.config.client.ConfigServicePropertySourceLocator |Connect Timeout Exception on Url - http://localhost:8888. Will be trying the next url if available
+2022-07-02 20:52:16 |INFO  |main |SpringApplication.java:655 |com.atguigu.guli.service.cms.ServiceCmsApplication |The following profiles are active: dev
+2022-07-02 20:54:26 |INFO  |main |ConfigServicePropertySourceLocator.java:249 |org.springframework.cloud.config.client.ConfigServicePropertySourceLocator |Fetching config from server at : http://localhost:8888
+2022-07-02 20:54:26 |INFO  |main |ConfigServicePropertySourceLocator.java:273 |org.springframework.cloud.config.client.ConfigServicePropertySourceLocator |Connect Timeout Exception on Url - http://localhost:8888. Will be trying the next url if available
+2022-07-02 20:54:26 |INFO  |main |SpringApplication.java:655 |com.atguigu.guli.service.cms.ServiceCmsApplication |The following profiles are active: dev
+2022-07-02 20:55:39 |INFO  |main |ConfigServicePropertySourceLocator.java:249 |org.springframework.cloud.config.client.ConfigServicePropertySourceLocator |Fetching config from server at : http://localhost:8888
+2022-07-02 20:55:39 |INFO  |main |ConfigServicePropertySourceLocator.java:273 |org.springframework.cloud.config.client.ConfigServicePropertySourceLocator |Connect Timeout Exception on Url - http://localhost:8888. Will be trying the next url if available
+2022-07-02 20:55:39 |INFO  |main |SpringApplication.java:655 |com.atguigu.guli.service.cms.ServiceCmsApplication |The following profiles are active: dev
+2022-07-02 20:56:20 |INFO  |main |ConfigServicePropertySourceLocator.java:249 |org.springframework.cloud.config.client.ConfigServicePropertySourceLocator |Fetching config from server at : http://localhost:8888
+2022-07-02 20:56:20 |INFO  |main |ConfigServicePropertySourceLocator.java:273 |org.springframework.cloud.config.client.ConfigServicePropertySourceLocator |Connect Timeout Exception on Url - http://localhost:8888. Will be trying the next url if available
+2022-07-02 20:56:20 |INFO  |main |SpringApplication.java:655 |com.atguigu.guli.service.cms.ServiceCmsApplication |The following profiles are active: dev
+2022-07-02 20:56:53 |INFO  |main |ConfigServicePropertySourceLocator.java:249 |org.springframework.cloud.config.client.ConfigServicePropertySourceLocator |Fetching config from server at : http://localhost:8888
+2022-07-02 20:56:53 |INFO  |main |ConfigServicePropertySourceLocator.java:273 |org.springframework.cloud.config.client.ConfigServicePropertySourceLocator |Connect Timeout Exception on Url - http://localhost:8888. Will be trying the next url if available
+2022-07-02 20:56:53 |INFO  |main |SpringApplication.java:655 |com.atguigu.guli.service.cms.ServiceCmsApplication |The following profiles are active: dev
+2022-07-02 20:56:54 |INFO  |main |GenericScope.java:295 |org.springframework.cloud.context.scope.GenericScope |BeanFactory id=7c295d43-a4e2-3f03-ab69-f4ba5d8b36b4
+2022-07-02 20:56:54 |INFO  |main |PostProcessorRegistrationDelegate.java:330 |org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker |Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-07-02 20:56:54 |INFO  |main |TomcatWebServer.java:92 |org.springframework.boot.web.embedded.tomcat.TomcatWebServer |Tomcat initialized with port(s): 8140 (http)
+2022-07-02 20:56:54 |INFO  |main |DirectJDKLog.java:173 |org.apache.coyote.http11.Http11NioProtocol |Initializing ProtocolHandler ["http-nio-8140"]
+2022-07-02 20:56:54 |INFO  |main |DirectJDKLog.java:173 |org.apache.catalina.core.StandardService |Starting service [Tomcat]
+2022-07-02 20:56:54 |INFO  |main |DirectJDKLog.java:173 |org.apache.catalina.core.StandardEngine |Starting Servlet engine: [Apache Tomcat/9.0.29]
+2022-07-02 20:56:54 |INFO  |main |DirectJDKLog.java:173 |org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] |Initializing Spring embedded WebApplicationContext
+2022-07-02 20:56:54 |INFO  |main |ServletWebServerApplicationContext.java:284 |org.springframework.web.context.ContextLoader |Root WebApplicationContext: initialization completed in 476 ms
+2022-07-02 20:56:54 |INFO  |main |DirectJDKLog.java:173 |org.apache.catalina.core.StandardService |Stopping service [Tomcat]
+2022-07-02 20:56:54 |INFO  |main |ConditionEvaluationReportLoggingListener.java:136 |org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener |
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-07-02 21:00:41 |INFO  |main |ConfigServicePropertySourceLocator.java:249 |org.springframework.cloud.config.client.ConfigServicePropertySourceLocator |Fetching config from server at : http://localhost:8888
+2022-07-02 21:00:41 |INFO  |main |ConfigServicePropertySourceLocator.java:273 |org.springframework.cloud.config.client.ConfigServicePropertySourceLocator |Connect Timeout Exception on Url - http://localhost:8888. Will be trying the next url if available
+2022-07-02 21:00:41 |INFO  |main |SpringApplication.java:655 |com.atguigu.guli.service.cms.ServiceCmsApplication |The following profiles are active: dev
+2022-07-02 21:00:41 |INFO  |main |GenericScope.java:295 |org.springframework.cloud.context.scope.GenericScope |BeanFactory id=7c295d43-a4e2-3f03-ab69-f4ba5d8b36b4
+2022-07-02 21:00:41 |INFO  |main |PostProcessorRegistrationDelegate.java:330 |org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker |Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-07-02 21:00:41 |INFO  |main |TomcatWebServer.java:92 |org.springframework.boot.web.embedded.tomcat.TomcatWebServer |Tomcat initialized with port(s): 8140 (http)
+2022-07-02 21:00:41 |INFO  |main |DirectJDKLog.java:173 |org.apache.coyote.http11.Http11NioProtocol |Initializing ProtocolHandler ["http-nio-8140"]
+2022-07-02 21:00:41 |INFO  |main |DirectJDKLog.java:173 |org.apache.catalina.core.StandardService |Starting service [Tomcat]
+2022-07-02 21:00:41 |INFO  |main |DirectJDKLog.java:173 |org.apache.catalina.core.StandardEngine |Starting Servlet engine: [Apache Tomcat/9.0.29]
+2022-07-02 21:00:41 |INFO  |main |DirectJDKLog.java:173 |org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] |Initializing Spring embedded WebApplicationContext
+2022-07-02 21:00:41 |INFO  |main |ServletWebServerApplicationContext.java:284 |org.springframework.web.context.ContextLoader |Root WebApplicationContext: initialization completed in 478 ms
+2022-07-02 21:00:42 |INFO  |main |DirectJDKLog.java:173 |org.apache.catalina.core.StandardService |Stopping service [Tomcat]
+2022-07-02 21:00:42 |INFO  |main |ConditionEvaluationReportLoggingListener.java:136 |org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener |
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-07-02 21:01:22 |INFO  |main |ConfigServicePropertySourceLocator.java:249 |org.springframework.cloud.config.client.ConfigServicePropertySourceLocator |Fetching config from server at : http://localhost:8888
+2022-07-02 21:01:22 |INFO  |main |ConfigServicePropertySourceLocator.java:273 |org.springframework.cloud.config.client.ConfigServicePropertySourceLocator |Connect Timeout Exception on Url - http://localhost:8888. Will be trying the next url if available
+2022-07-02 21:01:22 |INFO  |main |SpringApplication.java:655 |com.atguigu.guli.service.cms.ServiceCmsApplication |The following profiles are active: dev
+2022-07-02 21:01:22 |INFO  |main |GenericScope.java:295 |org.springframework.cloud.context.scope.GenericScope |BeanFactory id=7c295d43-a4e2-3f03-ab69-f4ba5d8b36b4
+2022-07-02 21:01:22 |INFO  |main |PostProcessorRegistrationDelegate.java:330 |org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker |Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-07-02 21:01:22 |INFO  |main |TomcatWebServer.java:92 |org.springframework.boot.web.embedded.tomcat.TomcatWebServer |Tomcat initialized with port(s): 8140 (http)
+2022-07-02 21:01:23 |INFO  |main |DirectJDKLog.java:173 |org.apache.coyote.http11.Http11NioProtocol |Initializing ProtocolHandler ["http-nio-8140"]
+2022-07-02 21:01:23 |INFO  |main |DirectJDKLog.java:173 |org.apache.catalina.core.StandardService |Starting service [Tomcat]
+2022-07-02 21:01:23 |INFO  |main |DirectJDKLog.java:173 |org.apache.catalina.core.StandardEngine |Starting Servlet engine: [Apache Tomcat/9.0.29]
+2022-07-02 21:01:23 |INFO  |main |DirectJDKLog.java:173 |org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] |Initializing Spring embedded WebApplicationContext
+2022-07-02 21:01:23 |INFO  |main |ServletWebServerApplicationContext.java:284 |org.springframework.web.context.ContextLoader |Root WebApplicationContext: initialization completed in 474 ms
+2022-07-02 21:01:23 |INFO  |main |DirectJDKLog.java:173 |org.apache.catalina.core.StandardService |Stopping service [Tomcat]
+2022-07-02 21:01:23 |INFO  |main |ConditionEvaluationReportLoggingListener.java:136 |org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener |
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-07-02 22:04:13 |INFO  |main |ConfigServicePropertySourceLocator.java:249 |org.springframework.cloud.config.client.ConfigServicePropertySourceLocator |Fetching config from server at : http://localhost:8888
+2022-07-02 22:04:13 |INFO  |main |ConfigServicePropertySourceLocator.java:273 |org.springframework.cloud.config.client.ConfigServicePropertySourceLocator |Connect Timeout Exception on Url - http://localhost:8888. Will be trying the next url if available
+2022-07-02 22:04:13 |INFO  |main |SpringApplication.java:655 |com.atguigu.guli.service.cms.ServiceCmsApplication |The following profiles are active: dev
+2022-07-02 22:04:13 |INFO  |main |GenericScope.java:295 |org.springframework.cloud.context.scope.GenericScope |BeanFactory id=97fb2eba-7860-39de-8dd0-ce621888531b
+2022-07-02 22:04:13 |INFO  |main |PostProcessorRegistrationDelegate.java:330 |org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker |Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-07-02 22:04:14 |INFO  |main |TomcatWebServer.java:92 |org.springframework.boot.web.embedded.tomcat.TomcatWebServer |Tomcat initialized with port(s): 8140 (http)
+2022-07-02 22:04:14 |INFO  |main |DirectJDKLog.java:173 |org.apache.coyote.http11.Http11NioProtocol |Initializing ProtocolHandler ["http-nio-8140"]
+2022-07-02 22:04:14 |INFO  |main |DirectJDKLog.java:173 |org.apache.catalina.core.StandardService |Starting service [Tomcat]
+2022-07-02 22:04:14 |INFO  |main |DirectJDKLog.java:173 |org.apache.catalina.core.StandardEngine |Starting Servlet engine: [Apache Tomcat/9.0.29]
+2022-07-02 22:04:14 |INFO  |main |DirectJDKLog.java:173 |org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] |Initializing Spring embedded WebApplicationContext
+2022-07-02 22:04:14 |INFO  |main |ServletWebServerApplicationContext.java:284 |org.springframework.web.context.ContextLoader |Root WebApplicationContext: initialization completed in 510 ms
+2022-07-02 22:04:14 |INFO  |main |DirectJDKLog.java:173 |org.apache.catalina.core.StandardService |Stopping service [Tomcat]
+2022-07-02 22:04:14 |INFO  |main |ConditionEvaluationReportLoggingListener.java:136 |org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener |
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-07-02 22:05:56 |INFO  |main |ConfigServicePropertySourceLocator.java:249 |org.springframework.cloud.config.client.ConfigServicePropertySourceLocator |Fetching config from server at : http://localhost:8888
+2022-07-02 22:05:57 |INFO  |main |ConfigServicePropertySourceLocator.java:273 |org.springframework.cloud.config.client.ConfigServicePropertySourceLocator |Connect Timeout Exception on Url - http://localhost:8888. Will be trying the next url if available
+2022-07-02 22:05:57 |INFO  |main |SpringApplication.java:655 |com.atguigu.guli.service.cms.ServiceCmsApplication |The following profiles are active: dev
+2022-07-02 22:05:57 |INFO  |main |GenericScope.java:295 |org.springframework.cloud.context.scope.GenericScope |BeanFactory id=97fb2eba-7860-39de-8dd0-ce621888531b
+2022-07-02 22:05:57 |INFO  |main |PostProcessorRegistrationDelegate.java:330 |org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker |Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-07-02 22:05:57 |INFO  |main |TomcatWebServer.java:92 |org.springframework.boot.web.embedded.tomcat.TomcatWebServer |Tomcat initialized with port(s): 8140 (http)
+2022-07-02 22:05:57 |INFO  |main |DirectJDKLog.java:173 |org.apache.coyote.http11.Http11NioProtocol |Initializing ProtocolHandler ["http-nio-8140"]
+2022-07-02 22:05:57 |INFO  |main |DirectJDKLog.java:173 |org.apache.catalina.core.StandardService |Starting service [Tomcat]
+2022-07-02 22:05:57 |INFO  |main |DirectJDKLog.java:173 |org.apache.catalina.core.StandardEngine |Starting Servlet engine: [Apache Tomcat/9.0.29]
+2022-07-02 22:05:57 |INFO  |main |DirectJDKLog.java:173 |org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] |Initializing Spring embedded WebApplicationContext
+2022-07-02 22:05:57 |INFO  |main |ServletWebServerApplicationContext.java:284 |org.springframework.web.context.ContextLoader |Root WebApplicationContext: initialization completed in 507 ms
+2022-07-02 22:05:57 |INFO  |main |DirectJDKLog.java:173 |org.apache.catalina.core.StandardService |Stopping service [Tomcat]
+2022-07-02 22:05:57 |INFO  |main |ConditionEvaluationReportLoggingListener.java:136 |org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener |
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.

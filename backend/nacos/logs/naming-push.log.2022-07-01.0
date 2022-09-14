@@ -1,0 +1,236 @@
+2022-07-01 10:22:24,490 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2022-07-01 10:22:25,128 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2022-07-01 10:22:26,974 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2022-07-01 10:22:28,917 INFO DEFAULT_GROUP@@service-vod is changed, add it to push queue.
+
+2022-07-01 10:40:18,671 INFO DEFAULT_GROUP@@service-vod is changed, add it to push queue.
+
+2022-07-01 10:40:24,606 INFO DEFAULT_GROUP@@service-vod is changed, add it to push queue.
+
+2022-07-01 11:00:49,686 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2022-07-01 11:00:54,987 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2022-07-01 11:00:57,663 INFO DEFAULT_GROUP@@service-vod is changed, add it to push queue.
+
+2022-07-01 11:01:01,152 INFO DEFAULT_GROUP@@service-vod is changed, add it to push queue.
+
+2022-07-01 11:09:31,644 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2022-07-01 11:09:31,686 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2022-07-01 11:09:31,735 INFO DEFAULT_GROUP@@service-vod is changed, add it to push queue.
+
+2022-07-01 11:09:37,447 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2022-07-01 11:09:37,782 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2022-07-01 11:09:38,990 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2022-07-01 11:09:40,055 INFO DEFAULT_GROUP@@service-vod is changed, add it to push queue.
+
+2022-07-01 11:19:02,988 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2022-07-01 11:19:03,032 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2022-07-01 11:19:03,104 INFO DEFAULT_GROUP@@service-vod is changed, add it to push queue.
+
+2022-07-01 11:19:03,105 INFO serviceName: DEFAULT_GROUP@@service-vod changed, schedule push for: 192.168.1.128:57154, agent: Nacos-Java-Client:v1.1.1, key: 192.168.1.128,57154,156336473568666
+
+2022-07-01 11:19:03,105 INFO send udp packet: 192.168.1.128,57154,156336473568666
+
+2022-07-01 11:19:09,109 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2022-07-01 11:19:09,767 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2022-07-01 11:19:11,143 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2022-07-01 11:19:12,220 INFO DEFAULT_GROUP@@service-vod is changed, add it to push queue.
+
+2022-07-01 11:19:13,109 INFO retry to push data, key: 192.168.1.128,57154,156336473568666
+
+2022-07-01 11:19:13,112 INFO send udp packet: 192.168.1.128,57154,156336473568666
+
+2022-07-01 11:19:23,117 INFO retry to push data, key: 192.168.1.128,57154,156336473568666
+
+2022-07-01 11:19:23,118 WARN max re-push times reached, retry times 2, key: 192.168.1.128,57154,156336473568666
+
+2022-07-01 16:01:06,865 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2022-07-01 16:01:12,234 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2022-07-01 16:52:40,353 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2022-07-01 16:52:45,725 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2022-07-01 19:10:12,948 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2022-07-01 19:10:19,036 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2022-07-01 19:50:16,700 INFO DEFAULT_GROUP@@service-vod is changed, add it to push queue.
+
+2022-07-01 19:50:21,767 INFO DEFAULT_GROUP@@service-vod is changed, add it to push queue.
+
+2022-07-01 19:55:59,167 INFO DEFAULT_GROUP@@service-vod is changed, add it to push queue.
+
+2022-07-01 20:01:46,794 INFO DEFAULT_GROUP@@service-vod is changed, add it to push queue.
+
+2022-07-01 20:07:29,443 INFO DEFAULT_GROUP@@service-vod is changed, add it to push queue.
+
+2022-07-01 20:18:59,712 INFO DEFAULT_GROUP@@service-vod is changed, add it to push queue.
+
+2022-07-01 20:24:42,099 INFO DEFAULT_GROUP@@service-vod is changed, add it to push queue.
+
+2022-07-01 20:24:44,517 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2022-07-01 20:24:49,568 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2022-07-01 20:30:27,155 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2022-07-01 20:30:29,735 INFO DEFAULT_GROUP@@service-vod is changed, add it to push queue.
+
+2022-07-01 20:36:12,363 INFO DEFAULT_GROUP@@service-vod is changed, add it to push queue.
+
+2022-07-01 20:36:14,781 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2022-07-01 20:41:56,068 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2022-07-01 20:41:57,484 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2022-07-01 20:42:01,083 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2022-07-01 20:47:40,294 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2022-07-01 20:47:42,677 INFO DEFAULT_GROUP@@service-vod is changed, add it to push queue.
+
+2022-07-01 20:47:43,726 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2022-07-01 20:47:43,856 INFO DEFAULT_GROUP@@service-vod is changed, add it to push queue.
+
+2022-07-01 20:47:48,830 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2022-07-01 20:53:40,530 INFO DEFAULT_GROUP@@service-vod is changed, add it to push queue.
+
+2022-07-01 20:53:41,543 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2022-07-01 20:53:41,781 INFO DEFAULT_GROUP@@service-vod is changed, add it to push queue.
+
+2022-07-01 20:53:43,128 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2022-07-01 20:59:25,760 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2022-07-01 20:59:28,173 INFO DEFAULT_GROUP@@service-vod is changed, add it to push queue.
+
+2022-07-01 20:59:29,214 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2022-07-01 20:59:29,490 INFO DEFAULT_GROUP@@service-vod is changed, add it to push queue.
+
+2022-07-01 21:05:10,804 INFO DEFAULT_GROUP@@service-vod is changed, add it to push queue.
+
+2022-07-01 21:05:11,891 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2022-07-01 21:05:12,257 INFO DEFAULT_GROUP@@service-vod is changed, add it to push queue.
+
+2022-07-01 21:05:13,411 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2022-07-01 21:10:54,657 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2022-07-01 21:10:56,173 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2022-07-01 21:16:41,267 INFO DEFAULT_GROUP@@service-vod is changed, add it to push queue.
+
+2022-07-01 21:16:42,423 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2022-07-01 21:16:42,977 INFO DEFAULT_GROUP@@service-vod is changed, add it to push queue.
+
+2022-07-01 21:22:23,925 INFO DEFAULT_GROUP@@service-vod is changed, add it to push queue.
+
+2022-07-01 21:22:25,106 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2022-07-01 21:22:25,701 INFO DEFAULT_GROUP@@service-vod is changed, add it to push queue.
+
+2022-07-01 21:22:26,543 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2022-07-01 21:24:09,005 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2022-07-01 21:24:11,344 INFO DEFAULT_GROUP@@service-vod is changed, add it to push queue.
+
+2022-07-01 21:24:12,518 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2022-07-01 21:24:13,221 INFO DEFAULT_GROUP@@service-vod is changed, add it to push queue.
+
+2022-07-01 21:28:30,072 INFO DEFAULT_GROUP@@service-vod is changed, add it to push queue.
+
+2022-07-01 21:28:31,192 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2022-07-01 21:28:31,946 INFO DEFAULT_GROUP@@service-vod is changed, add it to push queue.
+
+2022-07-01 21:28:32,635 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2022-07-01 21:28:33,675 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2022-07-01 21:35:42,012 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2022-07-01 21:35:42,030 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2022-07-01 21:35:42,105 INFO DEFAULT_GROUP@@service-vod is changed, add it to push queue.
+
+2022-07-01 21:35:52,403 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2022-07-01 21:35:53,052 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2022-07-01 21:35:54,162 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2022-07-01 21:35:55,398 INFO DEFAULT_GROUP@@service-vod is changed, add it to push queue.
+
+2022-07-01 23:19:38,523 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2022-07-01 23:19:38,550 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2022-07-01 23:19:38,614 INFO DEFAULT_GROUP@@service-vod is changed, add it to push queue.
+
+2022-07-01 23:24:13,825 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2022-07-01 23:24:14,598 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2022-07-01 23:24:16,486 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2022-07-01 23:26:33,212 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2022-07-01 23:26:35,384 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2022-07-01 23:26:36,587 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2022-07-01 23:29:52,185 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2022-07-01 23:29:54,041 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2022-07-01 23:29:55,366 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2022-07-01 23:29:57,147 INFO DEFAULT_GROUP@@service-vod is changed, add it to push queue.
+
+2022-07-01 23:33:09,743 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2022-07-01 23:33:12,418 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2022-07-01 23:33:32,263 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2022-07-01 23:33:33,842 INFO DEFAULT_GROUP@@service-vod is changed, add it to push queue.
+
+2022-07-01 23:40:12,597 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2022-07-01 23:40:13,454 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2022-07-01 23:40:14,946 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2022-07-01 23:40:15,832 INFO DEFAULT_GROUP@@service-vod is changed, add it to push queue.
+
+2022-07-01 23:47:49,198 INFO DEFAULT_GROUP@@service-edu is changed, add it to push queue.
+
+2022-07-01 23:47:49,214 INFO DEFAULT_GROUP@@service-oss is changed, add it to push queue.
+
+2022-07-01 23:47:49,259 INFO DEFAULT_GROUP@@service-vod is changed, add it to push queue.
+

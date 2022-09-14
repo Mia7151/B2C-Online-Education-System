@@ -1,0 +1,438 @@
+2022-07-02 09:51:43,332 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.128:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 09:51:43,335 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 192.168.1.128:8110_true,
+
+2022-07-02 09:51:43,337 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 192.168.1.128:8110_true,
+
+2022-07-02 09:51:43,971 INFO DEFAULT_GROUP@@service-oss {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.128:8121:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 09:51:43,971 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-oss, ips: 192.168.1.128:8121_true,
+
+2022-07-02 09:51:45,422 INFO DEFAULT_GROUP@@service-oss {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.128:8120:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 09:51:45,424 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-oss, ips: 192.168.1.128:8120_true,192.168.1.128:8121_true,
+
+2022-07-02 09:51:45,431 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-oss, ips: 192.168.1.128:8120_true,192.168.1.128:8121_true,
+
+2022-07-02 09:51:46,416 INFO DEFAULT_GROUP@@service-vod {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.128:8130:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 09:51:46,416 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-vod, ips: 192.168.1.128:8130_true,
+
+2022-07-02 09:51:46,416 INFO DEFAULT_GROUP@@service-vod {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.128:8130:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 09:51:46,416 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-vod, ips: 192.168.1.128:8130_true,
+
+2022-07-02 09:51:46,417 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-vod, ips: 192.168.1.128:8130_true,
+
+2022-07-02 09:51:46,417 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-vod, ips: 192.168.1.128:8130_true,
+
+2022-07-02 10:12:22,088 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.128:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 10:12:22,090 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 
+
+2022-07-02 10:12:23,592 INFO DEFAULT_GROUP@@service-oss {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.128:8121:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 10:12:23,592 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-oss, ips: 192.168.1.128:8120_true,
+
+2022-07-02 10:12:24,995 INFO DEFAULT_GROUP@@service-oss {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.128:8120:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 10:12:24,995 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-oss, ips: 
+
+2022-07-02 10:12:26,491 INFO DEFAULT_GROUP@@service-vod {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.128:8130:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 10:12:26,492 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-vod, ips: 
+
+2022-07-02 10:12:26,492 INFO DEFAULT_GROUP@@service-vod {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.128:8130:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 10:12:26,494 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-vod, ips: 
+
+2022-07-02 10:39:22,548 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.128:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 10:39:22,565 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 192.168.1.128:8110_true,
+
+2022-07-02 10:39:22,568 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 192.168.1.128:8110_true,
+
+2022-07-02 10:39:24,371 INFO DEFAULT_GROUP@@service-oss {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.128:8121:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 10:39:24,375 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-oss, ips: 192.168.1.128:8121_true,
+
+2022-07-02 10:39:24,383 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-oss, ips: 192.168.1.128:8121_true,
+
+2022-07-02 10:39:25,505 INFO DEFAULT_GROUP@@service-oss {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.128:8120:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 10:39:25,505 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-oss, ips: 192.168.1.128:8120_true,192.168.1.128:8121_true,
+
+2022-07-02 10:39:25,517 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-oss, ips: 192.168.1.128:8120_true,192.168.1.128:8121_true,
+
+2022-07-02 10:39:27,423 INFO DEFAULT_GROUP@@service-vod {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.128:8130:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 10:39:27,423 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-vod, ips: 192.168.1.128:8130_true,
+
+2022-07-02 10:39:27,423 INFO DEFAULT_GROUP@@service-vod {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.128:8130:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 10:39:27,423 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-vod, ips: 192.168.1.128:8130_true,
+
+2022-07-02 10:39:27,424 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-vod, ips: 192.168.1.128:8130_true,
+
+2022-07-02 10:39:27,426 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-vod, ips: 192.168.1.128:8130_true,
+
+2022-07-02 10:41:19,270 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.128:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 10:41:19,271 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 
+
+2022-07-02 10:41:19,317 INFO DEFAULT_GROUP@@service-oss {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.128:8121:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 10:41:19,317 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-oss, ips: 192.168.1.128:8120_true,
+
+2022-07-02 10:41:19,352 INFO DEFAULT_GROUP@@service-oss {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.128:8120:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 10:41:19,352 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-oss, ips: 
+
+2022-07-02 10:41:19,358 INFO DEFAULT_GROUP@@service-vod {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.128:8130:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 10:41:19,359 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-vod, ips: 
+
+2022-07-02 10:41:19,359 INFO DEFAULT_GROUP@@service-vod {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.128:8130:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 10:41:19,359 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-vod, ips: 
+
+2022-07-02 10:41:24,807 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.128:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 10:41:24,807 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 192.168.1.128:8110_true,
+
+2022-07-02 10:41:24,809 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 192.168.1.128:8110_true,
+
+2022-07-02 10:41:25,181 INFO DEFAULT_GROUP@@service-oss {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.128:8120:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 10:41:25,181 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-oss, ips: 192.168.1.128:8120_true,
+
+2022-07-02 10:41:25,198 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-oss, ips: 192.168.1.128:8120_true,
+
+2022-07-02 10:41:26,519 INFO DEFAULT_GROUP@@service-vod {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.128:8130:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 10:41:26,519 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-vod, ips: 192.168.1.128:8130_true,
+
+2022-07-02 10:41:26,519 INFO DEFAULT_GROUP@@service-vod {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.128:8130:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 10:41:26,519 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-vod, ips: 192.168.1.128:8130_true,
+
+2022-07-02 10:41:26,524 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-vod, ips: 192.168.1.128:8130_true,
+
+2022-07-02 10:41:26,524 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-vod, ips: 192.168.1.128:8130_true,
+
+2022-07-02 10:41:27,502 INFO DEFAULT_GROUP@@service-oss {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.128:8121:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 10:41:27,502 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-oss, ips: 192.168.1.128:8120_true,192.168.1.128:8121_true,
+
+2022-07-02 10:41:27,514 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-oss, ips: 192.168.1.128:8120_true,192.168.1.128:8121_true,
+
+2022-07-02 10:41:28,782 INFO DEFAULT_GROUP@@service-oss {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.128:8121:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 10:41:28,782 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-oss, ips: 192.168.1.128:8120_true,
+
+2022-07-02 10:41:35,951 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.128:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 10:41:35,951 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 
+
+2022-07-02 10:41:35,973 INFO DEFAULT_GROUP@@service-oss {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.128:8120:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 10:41:35,978 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-oss, ips: 
+
+2022-07-02 10:41:36,000 INFO DEFAULT_GROUP@@service-vod {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.128:8130:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 10:41:36,001 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-vod, ips: 
+
+2022-07-02 10:41:36,001 INFO DEFAULT_GROUP@@service-vod {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.128:8130:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 10:41:36,001 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-vod, ips: 
+
+2022-07-02 10:45:16,928 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.128:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 10:45:16,929 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 192.168.1.128:8110_true,
+
+2022-07-02 10:45:16,939 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 192.168.1.128:8110_true,
+
+2022-07-02 10:45:17,662 INFO DEFAULT_GROUP@@service-oss {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.128:8121:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 10:45:17,668 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-oss, ips: 192.168.1.128:8121_true,
+
+2022-07-02 10:45:17,686 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-oss, ips: 192.168.1.128:8121_true,
+
+2022-07-02 10:45:19,154 INFO DEFAULT_GROUP@@service-oss {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.128:8120:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 10:45:19,157 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-oss, ips: 192.168.1.128:8120_true,192.168.1.128:8121_true,
+
+2022-07-02 10:45:19,183 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-oss, ips: 192.168.1.128:8120_true,192.168.1.128:8121_true,
+
+2022-07-02 10:45:21,094 INFO DEFAULT_GROUP@@service-vod {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.128:8130:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 10:45:21,101 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-vod, ips: 192.168.1.128:8130_true,
+
+2022-07-02 10:45:21,115 INFO DEFAULT_GROUP@@service-vod {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.128:8130:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 10:45:21,116 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-vod, ips: 192.168.1.128:8130_true,
+
+2022-07-02 10:45:21,117 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-vod, ips: 192.168.1.128:8130_true,
+
+2022-07-02 10:45:21,117 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-vod, ips: 192.168.1.128:8130_true,
+
+2022-07-02 11:07:23,327 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.128:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 11:07:23,329 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 
+
+2022-07-02 11:07:28,569 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.128:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 11:07:28,570 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 192.168.1.128:8110_true,
+
+2022-07-02 11:07:28,573 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 192.168.1.128:8110_true,
+
+2022-07-02 11:14:56,042 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.128:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 11:14:56,043 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 
+
+2022-07-02 11:15:01,219 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.128:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 11:15:01,219 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 192.168.1.128:8110_true,
+
+2022-07-02 11:15:01,238 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 192.168.1.128:8110_true,
+
+2022-07-02 11:42:27,048 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.128:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 11:42:27,049 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 
+
+2022-07-02 11:42:32,728 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.128:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 11:42:32,736 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 192.168.1.128:8110_true,
+
+2022-07-02 11:42:32,748 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 192.168.1.128:8110_true,
+
+2022-07-02 12:32:16,368 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.128:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 12:32:16,378 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 
+
+2022-07-02 12:32:21,532 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.128:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 12:32:21,533 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 192.168.1.128:8110_true,
+
+2022-07-02 12:32:21,534 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 192.168.1.128:8110_true,
+
+2022-07-02 12:37:52,494 INFO DEFAULT_GROUP@@service-vod {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.128:8130:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 12:37:52,494 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-vod, ips: 
+
+2022-07-02 12:37:52,494 INFO DEFAULT_GROUP@@service-vod {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.128:8130:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 12:37:52,494 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-vod, ips: 
+
+2022-07-02 12:37:58,116 INFO DEFAULT_GROUP@@service-vod {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.128:8130:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 12:37:58,116 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-vod, ips: 192.168.1.128:8130_true,
+
+2022-07-02 12:37:58,127 INFO DEFAULT_GROUP@@service-vod {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.128:8130:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 12:37:58,127 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-vod, ips: 192.168.1.128:8130_true,
+
+2022-07-02 12:37:58,128 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-vod, ips: 192.168.1.128:8130_true,
+
+2022-07-02 12:37:58,128 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-vod, ips: 192.168.1.128:8130_true,
+
+2022-07-02 17:37:56,747 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.128:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 17:37:56,748 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 
+
+2022-07-02 17:38:03,583 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.128:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 17:38:03,584 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 192.168.1.128:8110_true,
+
+2022-07-02 17:38:03,589 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 192.168.1.128:8110_true,
+
+2022-07-02 20:23:28,794 INFO DEFAULT_GROUP@@service-cms {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.128:8140:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 20:23:28,805 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-cms, ips: 192.168.1.128:8140_true,
+
+2022-07-02 20:23:28,836 INFO DEFAULT_GROUP@@service-cms {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.128:8140:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 20:23:28,836 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-cms, ips: 192.168.1.128:8140_true,
+
+2022-07-02 20:23:28,839 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-cms, ips: 192.168.1.128:8140_true,
+
+2022-07-02 20:23:28,840 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-cms, ips: 192.168.1.128:8140_true,
+
+2022-07-02 20:34:49,872 INFO DEFAULT_GROUP@@service-cms {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.128:8140:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 20:34:49,874 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-cms, ips: 
+
+2022-07-02 20:34:49,874 INFO DEFAULT_GROUP@@service-cms {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.128:8140:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 20:34:49,874 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-cms, ips: 
+
+2022-07-02 22:11:14,596 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.128:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 22:11:14,597 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 
+
+2022-07-02 22:11:15,984 INFO DEFAULT_GROUP@@service-oss {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.128:8121:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 22:11:15,984 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-oss, ips: 192.168.1.128:8120_true,
+
+2022-07-02 22:11:17,261 INFO DEFAULT_GROUP@@service-oss {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.128:8120:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 22:11:17,261 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-oss, ips: 
+
+2022-07-02 22:11:18,627 INFO DEFAULT_GROUP@@service-vod {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.128:8130:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 22:11:18,629 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-vod, ips: 
+
+2022-07-02 22:11:18,629 INFO DEFAULT_GROUP@@service-vod {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.128:8130:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 22:11:18,630 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-vod, ips: 
+
+2022-07-02 22:44:52,953 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.128:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 22:44:52,955 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 192.168.1.128:8110_true,
+
+2022-07-02 22:44:52,960 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 192.168.1.128:8110_true,
+
+2022-07-02 22:44:57,433 INFO DEFAULT_GROUP@@service-oss {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.128:8121:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 22:44:57,433 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-oss, ips: 192.168.1.128:8121_true,
+
+2022-07-02 22:44:57,436 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-oss, ips: 192.168.1.128:8121_true,
+
+2022-07-02 22:44:59,776 INFO DEFAULT_GROUP@@service-oss {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.128:8120:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 22:44:59,776 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-oss, ips: 192.168.1.128:8120_true,192.168.1.128:8121_true,
+
+2022-07-02 22:44:59,779 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-oss, ips: 192.168.1.128:8120_true,192.168.1.128:8121_true,
+
+2022-07-02 22:45:03,507 INFO DEFAULT_GROUP@@service-vod {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.128:8130:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 22:45:03,507 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-vod, ips: 192.168.1.128:8130_true,
+
+2022-07-02 22:45:03,508 INFO DEFAULT_GROUP@@service-vod {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.128:8130:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 22:45:03,508 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-vod, ips: 192.168.1.128:8130_true,
+
+2022-07-02 22:45:03,509 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-vod, ips: 192.168.1.128:8130_true,
+
+2022-07-02 22:45:03,511 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-vod, ips: 192.168.1.128:8130_true,
+
+2022-07-02 23:01:31,021 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.128:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 23:01:31,021 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 
+
+2022-07-02 23:01:31,059 INFO DEFAULT_GROUP@@service-oss {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.128:8121:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 23:01:31,060 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-oss, ips: 192.168.1.128:8120_true,
+
+2022-07-02 23:01:31,084 INFO DEFAULT_GROUP@@service-oss {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.128:8120:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 23:01:31,084 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-oss, ips: 
+
+2022-07-02 23:01:31,114 INFO DEFAULT_GROUP@@service-vod {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.128:8130:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 23:01:31,114 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-vod, ips: 
+
+2022-07-02 23:01:31,114 INFO DEFAULT_GROUP@@service-vod {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.128:8130:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 23:01:31,115 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-vod, ips: 
+
+2022-07-02 23:04:04,113 INFO DEFAULT_GROUP@@service-cms {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.128:8140:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 23:04:04,113 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-cms, ips: 192.168.1.128:8140_true,
+
+2022-07-02 23:04:04,129 INFO DEFAULT_GROUP@@service-cms {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.128:8140:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 23:04:04,129 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-cms, ips: 192.168.1.128:8140_true,
+
+2022-07-02 23:04:04,131 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-cms, ips: 192.168.1.128:8140_true,
+
+2022-07-02 23:04:04,131 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-cms, ips: 192.168.1.128:8140_true,
+
+2022-07-02 23:10:52,637 INFO DEFAULT_GROUP@@service-vod {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.128:8130:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 23:10:52,663 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-vod, ips: 192.168.1.128:8130_true,
+
+2022-07-02 23:10:52,664 INFO DEFAULT_GROUP@@service-vod {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.128:8130:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 23:10:52,665 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-vod, ips: 192.168.1.128:8130_true,
+
+2022-07-02 23:10:52,665 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-vod, ips: 192.168.1.128:8130_true,
+
+2022-07-02 23:10:52,665 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-vod, ips: 192.168.1.128:8130_true,
+
+2022-07-02 23:11:03,217 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.128:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 23:11:03,218 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 192.168.1.128:8110_true,
+
+2022-07-02 23:11:03,218 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 192.168.1.128:8110_true,
+
+2022-07-02 23:11:28,143 INFO DEFAULT_GROUP@@service-oss {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.128:8121:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 23:11:28,144 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-oss, ips: 192.168.1.128:8121_true,
+
+2022-07-02 23:11:28,146 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-oss, ips: 192.168.1.128:8121_true,
+
+2022-07-02 23:14:01,119 INFO DEFAULT_GROUP@@service-sms {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.128:8150:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 23:14:01,120 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-sms, ips: 192.168.1.128:8150_true,
+
+2022-07-02 23:14:01,122 INFO DEFAULT_GROUP@@service-sms {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.128:8150:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 23:14:01,122 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-sms, ips: 192.168.1.128:8150_true,
+
+2022-07-02 23:14:01,123 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-sms, ips: 192.168.1.128:8150_true,
+
+2022-07-02 23:14:01,123 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-sms, ips: 192.168.1.128:8150_true,
+
+2022-07-02 23:14:04,841 INFO DEFAULT_GROUP@@service-ucenter {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.128:8160:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 23:14:04,843 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-ucenter, ips: 192.168.1.128:8160_true,
+
+2022-07-02 23:14:04,848 INFO DEFAULT_GROUP@@service-ucenter {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.128:8160:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 23:14:04,848 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-ucenter, ips: 192.168.1.128:8160_true,
+
+2022-07-02 23:14:04,849 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-ucenter, ips: 192.168.1.128:8160_true,
+
+2022-07-02 23:14:04,852 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-ucenter, ips: 192.168.1.128:8160_true,
+
+2022-07-02 23:21:08,950 INFO DEFAULT_GROUP@@service-vod {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.128:8130:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 23:21:08,952 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-vod, ips: 
+
+2022-07-02 23:21:08,967 INFO DEFAULT_GROUP@@service-vod {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.128:8130:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 23:21:08,967 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-vod, ips: 
+
+2022-07-02 23:21:08,970 INFO DEFAULT_GROUP@@service-edu {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.128:8110:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 23:21:08,970 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-edu, ips: 
+
+2022-07-02 23:21:09,014 INFO DEFAULT_GROUP@@service-cms {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.128:8140:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 23:21:09,014 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-cms, ips: 
+
+2022-07-02 23:21:09,014 INFO DEFAULT_GROUP@@service-cms {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.128:8140:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 23:21:09,014 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-cms, ips: 
+
+2022-07-02 23:21:09,015 INFO DEFAULT_GROUP@@service-oss {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.128:8121:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 23:21:09,015 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-oss, ips: 
+
+2022-07-02 23:21:09,037 INFO DEFAULT_GROUP@@service-sms {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.128:8150:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 23:21:09,037 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-sms, ips: 
+
+2022-07-02 23:21:09,038 INFO DEFAULT_GROUP@@service-sms {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.128:8150:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 23:21:09,038 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-sms, ips: 
+
+2022-07-02 23:21:09,065 INFO DEFAULT_GROUP@@service-ucenter {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.128:8160:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 23:21:09,066 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-ucenter, ips: 
+
+2022-07-02 23:21:09,066 INFO DEFAULT_GROUP@@service-ucenter {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.128:8160:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-07-02 23:21:09,066 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-ucenter, ips: 
+

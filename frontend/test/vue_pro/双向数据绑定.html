@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width", initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div id="app">
+        <input type="text" v-bind:value="keyword">
+        
+        <input type="text" v-model:value="keyword">
+        <p>您要查询的是：{{keyword}}</p>
+    </div>
+
+    <script src="vue.min.js"></script>
+    <script>
+        new Vue({
+            el:'#app',
+            data:{
+                keyword:'shangguigu'
+            }
+            
+        })
+
+    </script>
+</body>
+</html>
